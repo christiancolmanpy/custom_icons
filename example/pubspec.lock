@@ -53,8 +53,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "0f8252b"
-      resolved-ref: "0f8252b01c018d4337e70629991dd240f2cc2136"
+      ref: f6b5701
+      resolved-ref: f6b570124c9243ba81cb458ffeef633ce1eed1b4
       url: "git@github.com:christiancolmanpy/custom_icons.git"
     source: git
     version: "0.0.1"

@@ -14,7 +14,8 @@ dependencies:
   custom_icon:
     git:
       url: git@github.com:christiancolmanpy/custom_icons.git
-      ref: 0f8252b
+      ref: f6b5701
+
  
 
 
