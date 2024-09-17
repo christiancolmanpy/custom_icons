@@ -1,0 +1,32 @@
+name: example
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+environment:
+  sdk: ^3.5.3
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  colman_icon:
+    git:
+      url: git@github.com:christiancolmanpy/colman_icon.git
+      # ref: 0f3ff4c
+
+
+
+flutter:
+
+
+  uses-material-design: true
