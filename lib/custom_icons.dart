@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 class Custom {
   Custom._();
 
-  static const _kFontFam = 'custom';
+  static const _kFontFam = 'Custom';
   static const String? _kFontPkg = "custom_icon";
 
   static const IconData benefits_focused = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);

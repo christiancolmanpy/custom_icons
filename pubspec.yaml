@@ -15,7 +15,7 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: Colman
+    - family: Custom
       fonts:
         - asset: lib/assets/fonts/custom.ttf
   uses-material-design: true

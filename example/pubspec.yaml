@@ -11,19 +11,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  custom_icon:
+    git:
+      url: git@github.com:christiancolmanpy/custom_icons.git
+      ref: 0f8252b
+ 
+
 
 
   cupertino_icons: ^1.0.8
 
-
-dependencies:
-  flutter:
+dev_dependencies:
+  flutter_test:
     sdk: flutter
-  colman_icon:
-    git:
-      url: git@github.com:christiancolmanpy/colman_icon.git
-      # ref: 0f3ff4c
 
+  flutter_lints: ^4.0.0
 
 
 flutter:
