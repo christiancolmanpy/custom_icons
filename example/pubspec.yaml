@@ -14,11 +14,7 @@ dependencies:
   custom_icon:
     git:
       url: git@github.com:christiancolmanpy/custom_icons.git
-      ref: f6b5701
-
- 
-
-
+      ref: main
 
   cupertino_icons: ^1.0.8
 
