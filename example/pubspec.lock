@@ -54,7 +54,7 @@ packages:
     description:
       path: "."
       ref: develop
-      resolved-ref: "107b5a82bc88e9cc6b6f0290798d9a224ae5c52f"
+      resolved-ref: a153d451e91159a436aa92673093e5dcd283facd
       url: "git@github.com:christiancolmanpy/custom_icons.git"
     source: git
     version: "1.0.0"

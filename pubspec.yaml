@@ -18,5 +18,5 @@ flutter:
   fonts:
     - family: Custom
       fonts:
-        - asset: lib/assets/fonts/custom.ttf
+        - asset: lib/assets/fonts/Custom.ttf
   uses-material-design: true
