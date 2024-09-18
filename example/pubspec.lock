@@ -53,11 +53,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: f6b5701
-      resolved-ref: f6b570124c9243ba81cb458ffeef633ce1eed1b4
+      ref: develop
+      resolved-ref: "107b5a82bc88e9cc6b6f0290798d9a224ae5c52f"
       url: "git@github.com:christiancolmanpy/custom_icons.git"
     source: git
-    version: "0.0.1"
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:

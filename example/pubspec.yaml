@@ -1,7 +1,7 @@
 name: example
 description: "A new Flutter project."
 
-publish_to: 'none' 
+publish_to: none 
 
 
 environment:
@@ -14,7 +14,7 @@ dependencies:
   custom_icon:
     git:
       url: git@github.com:christiancolmanpy/custom_icons.git
-      ref: main
+      ref: develop
 
   cupertino_icons: ^1.0.8
 
